@@ -1,1 +1,1 @@
-## Veri yapıları ve Algoritmalar dersini öğrenirken yazmış olduğum Açıklamalı kodlar. 
+# Veri yapıları ve Algoritmalar dersini öğrenirken yazmış olduğum Açıklamalı kodlar. 
